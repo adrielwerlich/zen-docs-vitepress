@@ -1,0 +1,3 @@
+# Requisições de saída
+
+A requisição de saída é um documento utilizado em empresas e organizações para solicitar a retirada ou o consumo de materiais, produtos ou equipamentos do estoque ou de algum setor específico. Esse processo é essencial para garantir o controle adequado dos estoques e recursos da empresa, bem como para acompanhar a movimentação interna de itens e manter um registro das saídas efetuadas.

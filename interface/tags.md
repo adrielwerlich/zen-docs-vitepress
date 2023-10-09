@@ -1,0 +1,5 @@
+# Tags
+
+Tags, ou etiquetas, são rótulos ou palavras-chave atribuídas a conteúdos, para facilitar a organização, a categorização e a pesquisa desses conteúdos. As tags geralmente são curtas e descritivas, representando os principais temas, tópicos ou características relacionadas ao conteúdo em questão. Elas desempenham um papel importante na indexação e na busca de informações, permitindo que os usuários encontrem facilmente conteúdos relevantes ao realizar uma pesquisa ou ao navegar por uma plataforma específica. Além disso, as tags podem ser usadas para agrupar e filtrar conteúdos semelhantes, facilitando a descoberta de informações relacionadas e a organização de diferentes tipos de conteúdo.
+
+No sistema, há tags que são inseridas automaticamente pelo sistema (#system) e outras que podem ser adicionadas pelo operador de acordo com a atividade e o processo em questão.
