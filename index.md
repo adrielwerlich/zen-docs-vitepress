@@ -11,6 +11,9 @@ hero:
       text: Interface
       link: /interface/index.md
     - theme: brand
+      text: Cadastros
+      link: /catalog/index.md
+    - theme: brand
       text: Auditoria
       link: /audit/index.md
     - theme: brand

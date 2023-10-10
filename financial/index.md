@@ -7,17 +7,17 @@
 * [Retornos](billing/batchResponse)
 
 ## Contas a pagar
-* [Contas a pagar](payable.md)
-* [Liquidação de títulos](payableOpSetlle)
+* [Contas a pagar](/financial/payable/payable.md)
+* [Liquidação de títulos](/financial/payable/payableOpSettle.md)
 
 ## Contas a receber
-* [Contas a receber](receivable.md)
-* [Liquidação de títulos](receivableOpSettle)
-* [Antecipação de clientes](receivableAnticipation)
+* [Contas a receber](/financial/receivable/receivable.md)
+* [Liquidação de títulos](/financial/receivable/receivableOpSettle.md)
+* [Antecipação de clientes](/financial/receivable/receivableAnticipation.md)
 
 # Tesouraria
-* [Conciliação bancária](accountOpReconciliation)
-* [Lançamento de receita](revenueOpCreate)
+* [Conciliação bancária](../financial/treasury/accountOpReconciliation.md)
+* [Lançamento de receita](../financial/treasury/revenueOpCreate.md)
 
 # Operações
 * [Moedas](currency)

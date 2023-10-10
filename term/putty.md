@@ -13,14 +13,13 @@ Preencha os campos abaixo:
 
 ### Opção "Disable application keypad mode"
 
-Desabilite esta opção para usar o teclado numérico em laptops e desktops.
+    Desabilite esta opção para usar o teclado numérico em laptops e desktops.
 
 ## Connection/Data
-
 ### Auto-login username
 
-Preencha este campo com <empresa>:<usuario> (ex: "empresa:usuario@empresa.com.br").
+    Preencha este campo com <empresa>:<usuario> (ex: "empresa:usuario@empresa.com.br").
 
 ## Session
 
-Volte para esta categoria e clique em "Save" para gravar as configurações.
+    Volte para esta categoria e clique em "Save" para gravar as configurações.

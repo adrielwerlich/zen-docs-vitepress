@@ -14,11 +14,10 @@ A Nota Fiscal de Entrada contém informações importantes, como o nome ou razã
 
 ## Escrituração de nota fiscal de entrada à partir do XML
 
-![Entrada de NF XML](../../fiscal/br/dfeNfeProcInCreate.png)
-
+![Entrada de NF XML](../fiscal/br/dfeNfeProcInCreate.png)
 ## Escrituração de nota fiscal de entrada de importação pela DI
 
-![Entrada de NF por DI](../br/incomingInvoiceOpCreateFromDI.png)
+![Entrada de NF por DI](./br/incomingInvoiceOpCreateFromDI.png)
 
 
 ## Observações do processo de escrituração de nota fiscal de importação à partir de uma DI

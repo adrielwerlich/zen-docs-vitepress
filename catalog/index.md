@@ -1,7 +1,7 @@
 # Módulo cadastros
 
-* [Empresas](company)
-* [Localidades](location)
-* [Pessoas](person)
-* [Produtos](product)
+* [Empresas](company/index.md)
+* [Localidades](location/index.md)
+* [Pessoas](person/index.md)
+* [Produtos](product/index.md)
 * [Categorias](category)

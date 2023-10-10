@@ -6,5 +6,5 @@
 * [Grupos Empresarias](personGroup)
 * [Observações](personComment)
 * [Pessoas](person)
-* [Pessoas - opcional](person1)
-* [Arquivo](file)
+<!-- * [Pessoas - opcional](person1)
+* [Arquivo](file) TODO missing links-->

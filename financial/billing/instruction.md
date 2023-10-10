@@ -18,4 +18,4 @@ A instrução de cobrança pode conter informações como o valor a ser cobrado,
 
 ## Cadastro de uma instrução de baixa de carteira
 
-![Instrução de baixa de carteira](instruction2)
+<!-- ![Instrução de baixa de carteira](instruction2) -->

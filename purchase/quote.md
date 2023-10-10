@@ -11,7 +11,7 @@ Geralmente, um orçamento recebido de um fornecedor inclui informações detalha
 1. Um orçamento poderá ser excluído ou alterado somente se estiver no status Preparando;
 1. Após a preparação, todo orçamento deve receber a aprovação do preparo e da finalização;
 
-![Orçamento](quote.png) Fazer!!!!!!
+<!-- ![Orçamento](quote.png) TODO Fazer!!!!!! -->
 
 ## Veja também
 

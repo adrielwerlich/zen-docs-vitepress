@@ -6,26 +6,26 @@ Baixe a [planilha modelo](incomingListOpImport.xlsx) e preencha com as informaç
 
 ## Colunas
 
-* Warehouse - Código do armazén
-* Address - Código do endereço
-* Depositor.id - ID do depositante
-* ProductPacking - Código do produto
-* ProductPacking.barcode - Código de barras do produto
-    - Para produtos que tenha código EAN informar essa coluna
-* Quality - Código da qualidade
-* Lot - Código do lote
-* Lot.properties.<prop> - Propriedade do lote
-* Serial - Número serial
-* Serial.properties.<prop> - Propriedade do serial
-* ExpirationDate - Data de validade
-* HandlingUnit - Código do palete
-* Quantity - Quantidade
-    - Se não informado o sistema adotará quantidade 1
-* NetWeightKg - Peso líquido
-* GrossWeightKg - Peso bruto
-* VolumeM3 - Volume da embalagem
-* Tags - Tags
-* Properties.<prop> - Propriedades do item do romaneio
+    * Warehouse - Código do armazém
+    * Address - Código do endereço
+    * Depositor.id - ID do depositante
+    * ProductPacking - Código do produto
+    * ProductPacking.barcode - Código de barras do produto
+        - Para produtos que tenha código EAN informar essa coluna
+    * Quality - Código da qualidade
+    * Lot - Código do lote
+    * Lot.properties.<prop> - Propriedade do lote
+    * Serial - Número serial
+    * Serial.properties.<prop> - Propriedade do serial
+    * ExpirationDate - Data de validade
+    * HandlingUnit - Código do palete
+    * Quantity - Quantidade
+        - Se não informado o sistema adotará quantidade 1
+    * NetWeightKg - Peso líquido
+    * GrossWeightKg - Peso bruto
+    * VolumeM3 - Volume da embalagem
+    * Tags - Tags
+    * Properties.<prop> - Propriedades do item do romaneio
 
 ![Preenchimento da planilha](incomingListOpImport.png)
 

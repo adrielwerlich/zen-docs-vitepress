@@ -9,7 +9,7 @@ Os itens presentes no orçamento são os produtos que serão adquiridos do forne
 1. Unidade - o sistema preenche com a unidade padrão do produto conforme o cadastro. Se o fornecedor trabalha com uma unidade diferente da unidade padrão usada internamente na empresa, altere para a unidade que o fornecedor utiliza.
 1. Os itens do orçamento poderão ser alterado somente se o orçamento estiver no status **Preparando**
 
-![Itens Orçamento](quoteItem.png) Fazer!!!!!!
+<!-- ![Itens Orçamento](quoteItem.png) TODO Fazer!!!!!! -->
 
 ## Veja também
 

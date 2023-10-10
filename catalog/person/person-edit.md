@@ -12,5 +12,5 @@ Para confirmar a operação, clique no botão "Gravar".
 1. Outros telefones podem ser adicionados posteriormente em [contatos](personContact).
 1. O perfil fiscal será usado para automatizar o cálculo de tributação. Para mais informações, consulte [perfis fiscais de pessoas](../../fiscal/fiscalProfilePerson).
 1. A lista de conversão de códigos é usada para associar um produto da empresa ao produto da pessoa. Um exemplo de aplicação seria na emissão de notas fiscais de devolução.
-1. As tags são utilizadas para facilitar a agrupamento e filtragem de registros no sistema. Para obter mais informações sobre tags, consulte [tags](../../tags).
+1. As tags são utilizadas para facilitar a agrupamento e filtragem de registros no sistema. Para obter mais informações sobre tags, consulte [tags](../../interface/tags.md).
 Marque as tags especiais para identificar o tipo de relacionamento que a pessoa tem com a empresa. As tags especiais também podem ser usadas para ativar/desativar ou bloquear/desbloquear uma pessoa.

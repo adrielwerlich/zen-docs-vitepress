@@ -24,6 +24,6 @@ Lançar um [pedido de venda](/sale/sale) com atenção ao seguintes campos:
 
 ### Contas a receber
 
-* Liquidar a [conta a receber](/financial/receivableOpSettle)
+* Liquidar a [conta a receber](../../financial/receivable/receivableOpSettle.md)
 
 >Na liquidação usar a conta contábil 5.2.1.1.001 - Contas de apuração de resultados, Ajustes, Ajustes de estoque, Ajustes de estoque, Ajustes de estoque

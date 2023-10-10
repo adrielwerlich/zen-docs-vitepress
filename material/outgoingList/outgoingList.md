@@ -8,7 +8,7 @@ Romaneio de saída é um documento utilizado para registrar a saída de produtos
 
 ## Cadastro manual de um romaneio
 
-![Romaneio de saída](outgoingList.png)
+<!-- ![Romaneio de saída](outgoingList.png) TODO ENCONTRAR -->
 
 ## Veja também 
 

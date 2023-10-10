@@ -29,7 +29,7 @@ Clique no botão ![](https://static.zenerp.app.br/icons/action-child.svg){.icon}
 
 * Clique no botão ![](https://static.zenerp.app.br/icons/action-more-toolbar.svg){.icon} e clique na opção [Criar nota fiscal de entrada a partir romaneio de entrada]{.menu}
     * Informe o romaneio de entrada que será utilizado para gerar a nota fiscal de entrada
-    * informe o [perfil fiscal da operação](./../fiscal/fiscalProfileOperation) **DEVOLUÇÃO**
+    * informe o [perfil fiscal da operação](../../fiscal/fiscalProfileOperation.md) **DEVOLUÇÃO**
     * Informe uma lista de preços
     * Clique em [Processar]{.z-button .default}
 * Localize a nota fiscal de entrada gerada e clique no botão ![](https://static.zenerp.app.br/icons/action-update.svg){.icon}

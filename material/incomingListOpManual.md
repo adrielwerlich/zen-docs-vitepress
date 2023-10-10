@@ -8,4 +8,4 @@ O estoque pode ser abastecido manualmente por meio de um inventário, assim como
 
 ## Alimentar o estoque através de uma nota fiscal entrada
 
-![Entrada de NF Manual](../fiscal/incomingInvoice/incomingInvoice.png)
+![Entrada de NF Manual](/fiscal/incomingInvoice.png)

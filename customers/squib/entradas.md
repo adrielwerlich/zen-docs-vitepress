@@ -41,7 +41,7 @@
 
 ## Nota fiscal de entrada
 
-* [Criar a nota fiscal de entrada a partir do romaneio de entrada](../../fiscal/incomingInvoice/incomingInvoiceOpCreateFromIncomingList.md)
+* [Criar a nota fiscal de entrada a partir do romaneio de entrada](../../fiscal/incomingInvoiceOpCreateFromIncomingList.md)
 * Informar o romaneio de entrada e a lista de preços de custo
 * Acessar os itens da nota fiscal e ajustar os valores unitários e quantidade
 * Inserir a forma de pagamento

@@ -19,7 +19,7 @@ Baixe a [planilha modelo](priceListOpImport.csv) e preencha com as informações
 * [unitValue]{.field .required} - Valor unitário
 * [variationRateLow]{.field} - Percentual de variação a menos permitida. Deixe em branco se não for utilizar
 * [variationRateHigh]{.field} - Percentual de variação a mais permitida. Deixe em branco se não for utilizar
-* [tags]{.field} - [tags](/tags)
+* [tags]{.field} - [tags](../interface/tags.md)
 
 ## Importando a planilha
 
