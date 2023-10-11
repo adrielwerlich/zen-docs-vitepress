@@ -1,3 +1,0 @@
-# Necessidades de ressuprimento
-
-[]{.draft}

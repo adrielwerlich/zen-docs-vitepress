@@ -1,9 +1,9 @@
 
 # Módulos
 
-* [Cadastros](catalog)
-* [Auditoria](audit)
-* [Contabilidade](accounting)
+* [Cadastros](catalog/index.md)
+* [Auditoria](audit/index.md)
+<!-- * [Contabilidade](accounting)
 * [Expedição](shipping)
 * [Financeiro](financial)
 * [Fiscal](fiscal)
@@ -14,9 +14,9 @@
 * [Tributação](taxation)
 * [Produção](production)
 * [Sistema](system)
-* [Segurança](security)
+* [Segurança](security) -->
 
 ## Veja também:
 
-* [Como reportar erros?](howToReportErrors)
-* [Símbolos do grid](gridSymbols)
+<!-- * [Como reportar erros?](howToReportErrors) -->
+<!-- * [Símbolos do grid](gridSymbols) -->

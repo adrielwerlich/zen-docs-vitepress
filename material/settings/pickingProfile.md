@@ -1,3 +1,0 @@
-# **Perfis de separação**
-
-[]{.draft}

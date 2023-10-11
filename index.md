@@ -18,40 +18,40 @@ hero:
       link: /audit/index.md
     - theme: brand
       text: Contabilidade
-      link: /accounting/index.md
-    - theme: brand
-      text: Expedição
-      link: /shipping/index.md
-    - theme: brand
-      text: Financeiro
-      link: /financial/index.md
-    - theme: brand
-      text: Fiscal
-      link: /fiscal/index.md
-    - theme: brand
-      text: Materiais
-      link: /material/index.md
-    - theme: brand
-      text: Comercial
-      link: /commercial/index.md
-    - theme: brand
-      text: Compras
-      link: /purchase/index.md
-    - theme: brand
-      text: Vendas
-      link: /sale/index.md
-    - theme: brand
-      text: Tributação
-      link: /taxation/index.md
-    - theme: brand
-      text: Produção
-      link: /production/index.md
-    - theme: brand
-      text: Sistema
-      link: /system/index.md
-    - theme: brand
-      text: Segurança
-      link: /security/index.md
+      link: /accounting/account.md
+    # - theme: brand
+    #   text: Expedição
+    #   link: /shipping/index.md
+    # - theme: brand
+    #   text: Financeiro
+    #   link: /financial/index.md
+    # - theme: brand
+    #   text: Fiscal
+    #   link: /fiscal/index.md
+    # - theme: brand
+    #   text: Materiais
+    #   link: /material/index.md
+    # - theme: brand
+    #   text: Comercial
+    #   link: /commercial/index.md
+    # - theme: brand
+    #   text: Compras
+    #   link: /purchase/index.md
+    # - theme: brand
+    #   text: Vendas
+    #   link: /sale/index.md
+    # - theme: brand
+    #   text: Tributação
+    #   link: /taxation/index.md
+    # - theme: brand
+    #   text: Produção
+    #   link: /production/index.md
+    # - theme: brand
+    #   text: Sistema
+    #   link: /system/index.md
+    # - theme: brand
+    #   text: Segurança
+    #   link: /security/index.md
 
     - theme: alt
       text: API Examples
@@ -65,5 +65,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
-

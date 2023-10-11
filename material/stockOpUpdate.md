@@ -1,3 +1,0 @@
-# Alteração de estoques
-
-[]{.draft}

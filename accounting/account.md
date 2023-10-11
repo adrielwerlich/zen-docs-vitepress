@@ -1,3 +1,15 @@
+---
+title: Front 1matter of account.md
+editLink: true
+search: false
+disabledFor: ["hanas"]
+---
+
+
+# {{ $frontmatter.title }} {.title}
+
+testeclassecustom {.menu}
+
 # Contas contábeis
 
 Uma conta contábil representa o código usado para classificar e rastrear as transações financeira de uma empresa. Elas representam uma categoria de transações financeiras relacionadas a um item específico, como dinheiro em caixa, contas a receber, estoque ou despesas com aluguel.
@@ -23,3 +35,14 @@ Em caso de dúvidas, pesquise uma conta contábil existente, para referência. E
 ## Veja também
 
 [Planos de contas contábeis](accountChart)
+
+
+<script setup>
+import { useData } from 'vitepress'
+
+const { theme, page, frontmatter } = useData()
+
+console.log(theme);
+console.log(page);
+console.log(frontmatter.value);
+</script>

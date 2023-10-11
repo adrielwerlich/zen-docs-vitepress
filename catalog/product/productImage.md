@@ -8,4 +8,4 @@ Uma imagem é uma representação visual de um objeto, cena, ideia ou conceito, 
 
 ## Anexar imagens no ZEN
 
-![Zen - Imagens](../../system/image.png)
+<!-- ![Zen - Imagens](../../system/image.png) -->

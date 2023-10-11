@@ -1,3 +1,0 @@
-# **Requisições de entrada**
-
-[]{.draft}

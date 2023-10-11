@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as t,Q as o}from"./chunks/framework.d38f8df0.js";const f=JSON.parse('{"title":"Módulos","description":"","frontmatter":{},"headers":[],"relativePath":"index-alt.md","filePath":"index-alt.md"}'),l={name:"index-alt.md"},r=o("",3),i=[r];function s(d,n,_,c,m,h){return e(),t("div",null,i)}const p=a(l,[["render",s]]);export{f as __pageData,p as default};
